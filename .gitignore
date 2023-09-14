@@ -1,2 +1,5 @@
 .DS_STORE
-aclImdb
+aclImdb/
+.vscode
+img_res/
+**.pdf

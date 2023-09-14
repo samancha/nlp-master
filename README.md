@@ -1,5 +1,6 @@
 # nlp-master
 
-Datat Source for NLP 1.1 Assisngment 
+## Data Sources 
+Data Source for mod1 
 IMDB Dataset: http://ai.stanford.edu/~amaas/data/sentiment/?ref=hackernoon.com
 
