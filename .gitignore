@@ -3,3 +3,5 @@ aclImdb/
 .vscode
 img_res/
 **.pdf
+*/*.pdf
+*/*.xlsx
